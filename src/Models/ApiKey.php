@@ -1,6 +1,6 @@
 <?php
 
-namespace Muneebkh2\LaravelBase64ApiAuthenticator\Model;
+namespace Muneebkh2\LaravelBase64ApiAuthenticator\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
