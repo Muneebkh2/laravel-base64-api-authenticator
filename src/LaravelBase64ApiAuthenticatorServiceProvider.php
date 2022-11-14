@@ -2,8 +2,8 @@
 
 namespace Muneebkh2\LaravelBase64ApiAuthenticator;
 
-use Closure;
 use Illuminate\Support\ServiceProvider;
+use Muneebkh2\LaravelBase64ApiAuthenticator\Console\Commands\GenerateApiKey;
 
 class LaravelBase64ApiAuthenticatorServiceProvider extends ServiceProvider
 {
