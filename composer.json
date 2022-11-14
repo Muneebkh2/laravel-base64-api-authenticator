@@ -1,0 +1,26 @@
+{
+    "name": "muneebkh2/laravel-base64-api-authenticator",
+    "description": "This project is used for basic api authentication for lumen/laravel using base64.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Muneebkh2\\LaravelBase64ApiAuthenticator\\": "src",
+            "Muneebkh2\\LaravelBase64ApiAuthenticator\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Muneebkh2\\LaravelBase64ApiAuthenticator\\LaravelBase64ApiAuthenticatorServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Muneebkh2",
+            "email": "muneebkh5@gmail.com"
+        }
+    ],
+    "require": {}
+}
