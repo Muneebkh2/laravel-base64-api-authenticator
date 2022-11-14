@@ -1,6 +1,6 @@
 <?php
 
-namespace Muneebkh2\LaravelBase64ApiAuthenticator;
+namespace Muneebkh2\LaravelBase64ApiAuthenticator\Console\Commands;
 
 use Illuminate\Console\Command;
 use \Muneebkh2\LaravelBase64ApiAuthenticator\Model\ApiKey;
