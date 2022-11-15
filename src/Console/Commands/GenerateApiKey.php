@@ -3,7 +3,7 @@
 namespace Muneebkh2\LaravelBase64ApiAuthenticator\Console\Commands;
 
 use Illuminate\Console\Command;
-use \Muneebkh2\LaravelBase64ApiAuthenticator\Model\ApiKey;
+use Muneebkh2\LaravelBase64ApiAuthenticator\Models\ApiKey;
 
 class GenerateApiKey extends Command
 {
